@@ -35,9 +35,9 @@
   </a> -->
   
   <!-- TODO: update visitor badge -->
-  <!-- <a href="" target='_blank'>
+  <a href="" target='_blank'>
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Jonathan-Twz.tensegrity-robot-state-estimator&left_color=gray&right_color=firebrick">
-  </a> -->
+  </a>
 </p>
 
 ## About  
